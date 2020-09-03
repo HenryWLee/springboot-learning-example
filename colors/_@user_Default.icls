@@ -3,10 +3,49 @@
     <property name="created">2020-04-06T17:35:34</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2020-04-06T18:35:03</property>
+    <property name="modified">2020-09-03T16:58:02</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
+    <option name="INSTANCE_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
+        <option name="BACKGROUND" value="ffa707" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffa707" />
+      </value>
+    </option>
+    <option name="PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ffa707" />
+      </value>
+    </option>
+    <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ffa809" />
+        <option name="EFFECT_COLOR" value="909090" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="STATIC_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
+        <option name="BACKGROUND" value="ffa707" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="STATIC_FIELD_IMPORTED_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
+        <option name="BACKGROUND" value="ffa707" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="0" />
