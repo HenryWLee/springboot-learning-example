@@ -3,10 +3,16 @@
     <property name="created">2020-04-06T17:35:34</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2020-09-03T16:58:02</property>
+    <property name="modified">2020-09-13T18:25:14</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="9badfc" />
+        <option name="ERROR_STRIPE_COLOR" value="baa8ff" />
+      </value>
+    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="660e7a" />
@@ -50,6 +56,12 @@
       <value>
         <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="c7edcc" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ccd7fc" />
+        <option name="ERROR_STRIPE_COLOR" value="f0adf0" />
       </value>
     </option>
   </attributes>
